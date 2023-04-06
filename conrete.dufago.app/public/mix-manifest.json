@@ -1,0 +1,18 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/mixes/css/vendors.min.css": "/mixes/css/vendors.min.css",
+    "/mixes/css/datatables.min.css": "/mixes/css/datatables.min.css",
+    "/mixes/css/select2.min.css": "/mixes/css/select2.min.css",
+    "/mixes/css/pickadate.css": "/mixes/css/pickadate.css",
+    "/mixes/css/theme.css": "/mixes/css/theme.css",
+    "/mixes/js/vendors.min.js": "/mixes/js/vendors.min.js",
+    "/mixes/js/theme.js": "/mixes/js/theme.js",
+    "/mixes/js/datatable.js": "/mixes/js/datatable.js",
+    "/mixes/js/select2.full.min.js": "/mixes/js/select2.full.min.js",
+    "/mixes/js/form-select2.js": "/mixes/js/form-select2.js",
+    "/mixes/js/picker-date.js": "/mixes/js/picker-date.js",
+    "/mixes/js/pick-a-datetime.js": "/mixes/js/pick-a-datetime.js",
+    "/mixes/js/bootstrap-toast.js": "/mixes/js/bootstrap-toast.js",
+    "/mixes/js/components-modal.js": "/mixes/js/components-modal.js"
+}
